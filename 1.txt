@@ -1,1 +1,4 @@
-git add . //add all modifies
+git add . //add all modifies to stage
+git commit -m//提交，每次提交都有版本号
+git checkout --  file 撤销修改
+git reset HEAD 1.txt//撤销stage，放回工作区
